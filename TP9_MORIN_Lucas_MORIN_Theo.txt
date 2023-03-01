@@ -1,1 +1,10 @@
+
 Morin Lucas et Morin Theo
+explication question 7:
+on ne voyait plus le fichier dans la branche master car on l’avait commit 
+dans la branche mon_fichier. Pour la voir de nouveau, il faut exécuter les 
+commandes suivantes:
+ 
+	git checkout mon_fichier
+	ls
+
